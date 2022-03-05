@@ -20,7 +20,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
-	
+    <hr>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
